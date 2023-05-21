@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FFellEmoN
-- 👀 I’m interested in IT technologies, JUDO.
-- 🌱 I’m currently learning Java 8
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IT technologies, Unity.
+- 🌱 I’m currently learning Java 8 and C#
 - 📫 How to reach me: maksimz_0506@mail.ru
 
 <!---
